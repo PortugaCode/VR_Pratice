@@ -1,0 +1,16 @@
+[VR 하기 전에 깔아야할 패키지]
+XR Interraction Toolkit
+
+OpenXR  세팅
+
+Multi Pass 
+None
+Oculus Touch Controller Profile
+Oculus Quest Support
+
+패키지 다운
+
+Hand Controller에서 Model
+
+Model Prefab은 손
+Model Parent는 무기 등
